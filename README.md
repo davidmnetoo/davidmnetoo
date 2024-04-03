@@ -1,7 +1,7 @@
 - 👋 Hi, I’m david
 - 👀 I’m interested in learning and getting better at programming
 - 🌱 I’m currently learning HTML/CSS/JAVA/JAVASCRIPT/REACTJS
-- 📫 How to reach me @dmneto2005@gmail.com
+- 📫 How to reach me @davidneto2005bla@gmail.com
 - ⚡ Fun fact: we go gym brrr
 
 <!---
