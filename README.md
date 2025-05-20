@@ -1,6 +1,6 @@
 - 👋 Hi, I’m david
 - 👀 I’m interested in learning and getting better at programming
-- 🌱 I’m currently learning HTML/CSS/C/JAVA/JAVASCRIPT/REACTJS/SALESFORCE DEV/MOBILE (IOS & ANDROID)
+- 🌱 I’m currently learning HTML/CSS/C/JAVA/JAVASCRIPT/REACTJS/MOBILE (IOS & ANDROID)
 - 📫 How to reach me @davidneto2005bla@gmail.com
 - ⚡ Fun fact: we go gym brrr
 
